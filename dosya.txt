@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dosya oluşturuldu
+=======
+güncelleme kodları eklendi
+>>>>>>> r2.5.4.1_Bugfix
